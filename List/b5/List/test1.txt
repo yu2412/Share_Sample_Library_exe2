@@ -1,0 +1,2 @@
+Do NOT simply read the instructions in here without understanding
+what they do.  They're here only as hints or reminders.  If you are unsure
